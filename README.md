@@ -2,7 +2,7 @@
 
 # Hello, World!🌸
 
-I'm ✨Luisa✨, an IT student deeply committed to harnessing my burgeoning skills and translating them into real-world applications. As I'm at the threshold of my journey in IT, my path is distinctly shaped by curiosity, creativity, and an aspiration to leave a meaningful footprint in the tech world. While I'm still exploring my potential, I'm enthusiastic about collaborating on projects and expanding my horizons by delving into the vast and exciting possibilities the digital realm presents!
+I'm ✨Luisa✨, an IT student deeply committed to harnessing my burgeoning skills and translating them into real-world applications. As I'm at the threshold of my journey in IT, my path is distinctly shaped by curiosity, creativity, and an aspiration to leave a meaningful footprint in the tech world. While I'm still exploring my potential, I'm enthusiastic about collaborating on projects and expanding my horizons by delving into the vast and exciting possibilities the digital realm presents! /(>..,<)\
 
 <hr>
 
@@ -41,9 +41,9 @@ I'm ✨Luisa✨, an IT student deeply committed to harnessing my burgeoning skil
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" width="65" height="25"/>
 </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+<!-- <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vuejs" width="75" height="25"/>
-</a>
+</a> -->
 </p>
 
 
