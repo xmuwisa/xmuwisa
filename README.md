@@ -2,7 +2,7 @@
 
 # Hello, World!🌸
 
-I'm ✨Luisa✨, an IT student deeply committed to harnessing my burgeoning skills and translating them into real-world applications. As I'm at the threshold of my journey in IT, my path is distinctly shaped by curiosity, creativity, and an aspiration to leave a meaningful footprint in the tech world. While I'm still exploring my potential, I'm enthusiastic about collaborating on projects and expanding my horizons by delving into the vast and exciting possibilities the digital realm presents! /(>..,<)\
+I'm ✨Luisa✨, an IT student dedicated to applying my developing skills in real-world applications. As I begin my journey in IT, curiosity and creativity shape my path. My goal is to make a meaningful impact in the tech world. While I explore my potential, I'm enthusiastic to collaborate on projects and discover new possibilities beyond traditional boundaries! /(>..,<)\
 
 <hr>
 
