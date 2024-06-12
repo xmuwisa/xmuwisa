@@ -1,10 +1,6 @@
 <!-- top -->
 
-# Hello, World!🌸
-
-I'm ✨Luisa✨, an IT student dedicated to applying my developing skills in real-world applications. As I begin my journey in IT, curiosity and creativity shape my path. My goal is to make a meaningful impact in the tech world. While I explore my potential, I'm enthusiastic to collaborate on projects and discover new possibilities beyond traditional boundaries! /(>..,<)\
-
-<hr>
+# Hello, World! I'm Luisa /(>..,<)\🌸
 
 <!-- reach me -->
 
