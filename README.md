@@ -1,6 +1,6 @@
 <!-- top -->
 
-# Hello, World! I'm Luisa /(>..,<)\🌸
+# Hello, World! I'm Luisa🌸
 
 <!-- reach me -->
 
